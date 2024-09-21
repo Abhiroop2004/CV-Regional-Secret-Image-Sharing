@@ -6,8 +6,8 @@
 - Track - `Safety and Security`
 
 ### Combines two architectures:
-**1. Mask R-CNN
-2. Shamir's Secret Sharing**
+1. **Mask R-CNN**
+2. **Shamir's Secret Sharing**
 
 ### Dataset
 The dataset used in this project can be found at: [Kaggle](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
