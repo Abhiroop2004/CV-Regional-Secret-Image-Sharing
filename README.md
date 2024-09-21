@@ -1,5 +1,13 @@
-## Hackathon Submission for INSIGHT 2024
-This is a Computer vision-powered secret-sharing tool for images.
+# Computer Vision in Secret Sharing
+### A Hackathon Submission for **INSIGHT**
 
-### Dataset
+- Team Name -  `WatchTower`
+- Leader Name - `Abhiroop Sarkar`
+- Track - `Safety and Security`
+
+### Combines two architectures:
+**1. Mask R-CNN
+2. Shamir's Secret Sharing**
+
+## Dataset
 The dataset used in this project can be found at: [Kaggle](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
