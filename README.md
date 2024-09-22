@@ -9,10 +9,11 @@
 1. **Mask R-CNN**
 2. **Shamir's Secret Sharing**
 
+### Check [main.ipynb](./main.ipynb) to see the complete demonstration
+
 ### Dataset
 The dataset used in this project can be found at: [Kaggle](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
 
 ### References
-- Scene Parsing through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, S. Fidler, A. Barriuso and A. Torralba. Computer Vision and Pattern Recognition (CVPR), 2017.
 - He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). Mask r-cnn. In Proceedings of the IEEE international conference on computer vision (pp. 2961-2969).
 - Sardar, M. K., Pramanik, J., & Adhikari, A. (2023). (t,k,n) regional secret image sharing over finite fields. Signal Processing, (109082), 109082. doi:10.1016/j.sigpro.2023.109082
