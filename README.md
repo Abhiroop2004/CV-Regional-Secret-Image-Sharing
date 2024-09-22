@@ -1,5 +1,5 @@
-# Computer Vision in Secret Sharing
-### A Hackathon Submission for **INSIGHT**
+# Vision-Guided Regional Secret Sharing
+### Hackathon Submission for **INSIGHT**
 
 - Team Name -  `WatchTower`
 - Leader Name - `Abhiroop Sarkar`
