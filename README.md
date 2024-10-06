@@ -11,6 +11,9 @@
 
 ### Check [main.ipynb](./main.ipynb) to see the complete demonstration
 
+### Note
+The code for Shamir Secret Sharing has been hidden for undeclared purposes (Check later)
+
 ### Dataset
 The dataset used in this project can be found at: [Kaggle](https://www.kaggle.com/datasets/andrewmvd/car-plate-detection)
 
